@@ -16,7 +16,7 @@ Manager](https://github.com/tmux-plugins/tpm).
 1. Add plugin to the list of TPM plugins in `.tmux.conf`:
 
     ``` tmux
-    set -g @plugin 'jamesoff/tmux-vpn'
+    set -g @plugin 'davidfsmith/tmux-vpn'
     ```
 
 2. Use <kbd>prefix</kbd>–<kbd>I</kbd> to install `tmux-vpn`.
@@ -28,7 +28,7 @@ Manager](https://github.com/tmux-plugins/tpm).
 1. Clone the repository
 
     ``` sh
-    $ git clone https://github.com/jamesoff/tmux-vpn ~/clone/path
+    $ git clone https://github.com/davidfsmith/tmux-vpn ~/clone/path
     ```
 
 2. Add this line to the bottom of `.tmux.conf`
